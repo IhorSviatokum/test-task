@@ -1,0 +1,8 @@
+.EventElement {
+  font-size: 0.875rem;
+  background-color: #e2ecf5;
+  border-left: #6e9ecf solid 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

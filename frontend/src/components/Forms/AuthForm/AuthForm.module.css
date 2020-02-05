@@ -1,0 +1,21 @@
+.AuthEventForm {
+  padding: 1rem;
+}
+
+.FormElement {
+  margin: 1rem auto;
+}
+
+.FormElement input {
+  margin: 0 5px;
+}
+
+.FormElement label {
+  font-weight: 700;
+}
+
+.SignupToggle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}

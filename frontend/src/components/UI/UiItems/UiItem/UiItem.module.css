@@ -1,0 +1,21 @@
+.UiItem {
+  flex: 1;
+  font-weight: bold;
+  min-width: 5rem;
+  max-width: 6rem;
+  height: 3rem;
+  border: solid #6e9ecf 2px;
+  background-color: #e2ecf5;
+  color: #6e9ecf;
+  margin: 0 0.5rem;
+}
+
+.UiItem:hover,
+.UiItem:active {
+  background-color: #6e9ecf;
+  color: #e2ecf5;
+}
+
+.UiItem:focus {
+  outline: #6e9ecf;
+}

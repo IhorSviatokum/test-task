@@ -1,0 +1,10 @@
+.AddEventButton {
+  font-size: 0.75rem;
+  padding: 0px;
+  width: 12.5px;
+  top: 0;
+  right: 2px;
+  display: none;
+  position: absolute;
+  border: lightgray solid 0.5px
+}

@@ -1,0 +1,15 @@
+.EditEventForm {
+  padding: 1rem;
+}
+
+.FormElement {
+  margin: 1rem auto;
+}
+
+.FormElement input {
+  margin: 0 5px;
+}
+
+.FormElement label {
+  font-weight: 700;
+}

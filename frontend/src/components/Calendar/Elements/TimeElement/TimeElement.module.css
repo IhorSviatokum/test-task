@@ -1,0 +1,32 @@
+.timeElementContainer {
+  display: flex;
+  height: 12.5px;
+}
+
+.highlightedContainer {
+  background: #6e9ecf;
+}
+
+.timeElementContainer:hover button,
+.timeElementContainer:active button {
+  display: block;
+}
+
+.hourContainer {
+  border-top: lightgray solid 0.5px;
+}
+
+.timeElementLabel {
+  width: 50px;
+  color: lightgray;
+  font-size: 0.75rem;
+  position: relative;
+}
+
+.hourLabel {
+  font-size: 1rem;
+}
+
+.timeElementField {
+  width: 200px;
+}
