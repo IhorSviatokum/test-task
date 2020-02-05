@@ -1,1 +1,1 @@
-# test-task
+Link to the MongoDB collection may be entered in /backend/src/URI.js. Adding and editing events is possible after signing up / logging it. Adding an event may be done either by selecting time directly in the timetable or by using add event button. Editing and deleting is possible in the modal window, accessed by clicking on an event.
