@@ -61,7 +61,7 @@ class Layout extends Component {
 
   render() {
     return (
-      <div className={classes.Layout}>
+      <div>
         <Modal
           loggingin={this.props.loggingin}
           editing={this.props.editing}
